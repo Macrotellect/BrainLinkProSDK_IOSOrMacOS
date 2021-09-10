@@ -5,4 +5,8 @@
 ### Android
 
 ### IOSOrMacOS (For iOS, also for Macos)
-
+- [SDK](https://github.com/Macrotellect/BrainLinkProSDK/releases/download/1.3.1/IOSMacBrainLinkProSDKSpecialEditonV1.3.1.zip)
+- [iOS demo](https://github.com/Macrotellect/BrainLinkProSDK/releases/download/1.3/IOS_HZLBlue4Demo.zip) 
+- [Mac demo](https://github.com/Macrotellect/BrainLinkProSDK/releases/download/1.3/Mac_HZLBlue4.0Demo.zip) 
+- [Chinese Guide](https://github.com/Macrotellect/BrainLinkProSDK/releases/download/1.3.1/IOSMacBrainLinkProSDKSpecialEditonV1.3.1_cn.pdf)
+- [Englsih Guide](https://github.com/Macrotellect/BrainLinkProSDK/releases/download/1.3.1/IOSMacBrainLinkProSDKSpecialEditonV1.3.1_en.pdf)
