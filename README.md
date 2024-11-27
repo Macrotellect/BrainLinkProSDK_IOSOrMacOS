@@ -1,2 +1,2 @@
-- code editor： Xcode
+- code editor： Xcode is supported.
 - other code editors should be used with caution.
